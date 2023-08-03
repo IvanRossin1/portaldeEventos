@@ -148,7 +148,7 @@ h6{font-size: 12pt; font-weight: 700;/*bold*/ letter-spacing: 0px;}
 .bbrr {border-bottom-right-radius: 15px; background-color: rgba(128,128,128,1); color: white; float: right; margin-left: 5px;  text-align: center}
 .bbrr:hover  {background-color: rgba(77,77,77,1);}
 .bbrr:active  {background-color: rgba(170,143,83,0.6); color: white!important}
-.btlr {border-top-left-radius: 15px; background-color: rgba(128,128,128,1); color: white; float:}
+.btlr {border-top-left-radius: 15px; background-color: rgba(128,128,128,1); color: white;}
 
 p{padding-top: 20px;}
 

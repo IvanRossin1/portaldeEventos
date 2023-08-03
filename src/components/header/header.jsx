@@ -6,7 +6,7 @@ const Encabezado = () => {
     <>
       <div>PORTAL DE EVENTOS</div>
       <MenuEnlaces />
-      <Usuarios />
+      {/* <Usuarios /> */}
     </>
   )
 }

@@ -4,10 +4,10 @@ const MenuEnlaces = () => {
   return (
     <>
         <ul>
-            <li><a href="http:#">Categorías</a></li>
-            <li><a href="http:#">Salones</a></li>
-            <li><a href="http:#">Imagen Personal</a></li>
-            <li><a href="http:#">Contacto</a></li>
+            <li><a href="#">Categorías</a></li>
+            <li><a href="#">Salones</a></li>
+            <li><a href="#">Imagen Personal</a></li>
+            <li><a href="#">Contacto</a></li>
         </ul>
     </>
   )
