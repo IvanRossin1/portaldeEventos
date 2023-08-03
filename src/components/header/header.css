@@ -1,0 +1,6 @@
+li {
+    float: left;
+    display: flex;
+    list-style: none;
+    padding: 5px 20px;
+}
