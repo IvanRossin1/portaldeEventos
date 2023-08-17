@@ -1,6 +1,23 @@
+* {
+    text-decoration: none;
+}
+
 li {
     float: left;
-    display: flex;
     list-style: none;
     padding: 5px 20px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    height: 60px;
+    overflow: hidden;
+}
+
+.quicksand {
+    font-family: 'Quicksand', sans-serif;
 }
