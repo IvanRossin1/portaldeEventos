@@ -16,8 +16,13 @@ li {
     margin: auto;
     height: 60px;
     overflow: hidden;
+
+    & img{
+        width: 200px;
+    }
 }
 
 .quicksand {
     font-family: 'Quicksand', sans-serif;
+    text-decoration: none;
 }
