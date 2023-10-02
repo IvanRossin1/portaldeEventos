@@ -1,13 +1,15 @@
 import Encabezado from './components/header/header'
 import PiePagina from './components/footer/footer'
-
+import { EjemploProps } from './components/EjemploProps'
+import { ContenedorPubli } from './components/publicacion/contenedorPubli'
 
 const App = () => {
   return (
     <>
-    <Encabezado />
-    <h1>asdasdas</h1>
-    <PiePagina />
+    {/* <Encabezado />
+    <PiePagina /> */}
+    <EjemploProps />
+    <ContenedorPubli />
   </>
   )
 }
